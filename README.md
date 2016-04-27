@@ -1,5 +1,7 @@
 # Docker-Clean
 
+[![Join the chat at https://gitter.im/killianbrackey/docker-clean](https://badges.gitter.im/killianbrackey/docker-clean.svg)](https://gitter.im/killianbrackey/docker-clean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A simple Shell script to clean up the Docker Daemon.
 
 ## Requirements
